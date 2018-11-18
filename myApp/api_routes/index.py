@@ -16,7 +16,7 @@ def index():
 	current_app.logger.info('/api/v1/')
 	return "this is /api/v1/"
 
-## Dev testing for Factory
+## Dev testing
 @api_routes.route('/ping')
 def dummy_api():
 	current_app.logger.info('/api/v1/')
