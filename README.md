@@ -1,7 +1,6 @@
 # Boiler Plate - Flask
   
 This contains a quick boiler plate for developing REST API's for quick and fast prototyping.
-To start on using this 
 
 ### Install Virtual Env
 To run virtual env for your project, run `virtualenv -vvv venv`. 
